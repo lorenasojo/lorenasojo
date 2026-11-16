@@ -1,5 +1,5 @@
 ![Lorena Torres Sojo - Data Analyst](<Banner profesional de análisis de datos.png>)
-### ¡Hola! Soy Lorena Torres Sojo 👋
+### ¡Hola, un gusto! Soy Lorena Torres Sojo 👋
 
 ### 📊 Data Analyst Jr. | Psychology Background | SQL, Python & Data Analytics
 
