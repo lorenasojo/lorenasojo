@@ -5,7 +5,7 @@
 
 Apasionada por el análisis de datos, la investigación y la transformación de información en conocimiento estratégico.
 
-Soy Licenciada en Psicología con experiencia en investigación, aplicación e interpretación de instrumentos, elaboración de informes y análisis de información. Actualmente he orientado mi trayectoria profesional hacia **Data Analytics**, integrando mi experiencia analítica con herramientas tecnológicas para explorar datos, identificar patrones y generar información que contribuya a la toma de decisiones.
+Licenciada en Psicología con experiencia en investigación, aplicación e interpretación de instrumentos, elaboración de informes y análisis de información. Actualmente he orientado mi trayectoria profesional hacia **Data Analytics**, integrando mi experiencia analítica con herramientas tecnológicas para explorar datos, identificar patrones y generar información que contribuya a la toma de decisiones.
 
 ### 🌱 Sobre mí
 
