@@ -55,7 +55,7 @@ Mi objetivo es desarrollarme en el área de Data Analytics, aportando pensamient
 ### 🤝 Conectemos
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lorena-torres-sojo/)
-- 💻 GitHub: Lorena Torres Sojo
+- 💻 GitHub: https://github.com/lorenasojo
 
 <!--
 **lorenasojo/lorenasojo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
